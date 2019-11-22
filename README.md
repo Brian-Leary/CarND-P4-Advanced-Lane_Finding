@@ -4,7 +4,7 @@
 
 In this project, your goal is to write a software pipeline to identify the lane boundaries in a video, but the main output or product we want you to create is a detailed writeup of the project.
 
-Here are inks to my [write-up](./P4_Advanced_Lane_Lines_Write-up2.pdf), my output [video](./output_project_vid.mp4) and my [code](./P4_Advanced_Lane_Lines4.ipynb).
+Here are links to my [write-up](./P4_Advanced_Lane_Lines_Write-up2.pdf), my output [video](./output_project_vid.mp4) and my [code](./P4_Advanced_Lane_Lines4.ipynb).
 
 Creating a great writeup:
 ---
